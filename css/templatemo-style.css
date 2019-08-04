@@ -520,8 +520,8 @@ ul {
   display: inline-block;
   line-height: 40px;
   font-size: 13px;
-  color: #fff;
-  background-color: rgba(250, 250, 250, 0.05);
+  color: rgb(0, 0, 0);
+  background-color: rgba(250, 250, 250);
   border: none;
   outline: none;
   border-radius: 0;
@@ -539,8 +539,8 @@ ul {
   display: inline-block;
   line-height: 40px;
   font-size: 13px;
-  color: #fff;
-  background-color: rgba(250, 250, 250, 0.05);
+  color: rgb(0, 0, 0);
+  background-color: rgba(250, 250, 250);
   border: none;
   outline: none!important;
   border-radius: 0;
