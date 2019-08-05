@@ -322,7 +322,8 @@ ul {
 	position: relative;
 	right: -100px;
 	padding: 30px;
-	display: inline-block;
+  display: inline-block;
+  text-align: justify;
 }
 
 .home-content .left-text {     
