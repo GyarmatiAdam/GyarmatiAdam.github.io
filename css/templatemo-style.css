@@ -410,6 +410,7 @@ ul {
 .about-content .about-box-text p {
   color: #343434;
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 .about-content .primary-button a:hover {
@@ -462,6 +463,7 @@ ul {
   margin-top: -45px;
   position: relative;
   z-index: 2;
+  text-align: justify;
 }
 
 .projects-content .text-content h4 {
